@@ -2,7 +2,7 @@
 
 
 1. ほかの AAD テナントに紐づけられておらず、Microsoft 365 評価版の有効化などに使用していない Microsoft アカウントを用意します。（必要であれば新しい Microsoft アカウントを作成してください）
-1. ブラウザを Inprivate モードなどで起動して https://account.windowsazure.com/organization にアクセスして Microsoft アカウントの ID を入力します。
+1. ブラウザを Inprivate モードなどで起動して https://account.windowsazure.com/organization にアクセスして Microsoft アカウントの ID (メールアドレス) を入力します。
   ![image](https://github.com/dakozu/CloudSlice/assets/32472054/4f640735-4245-494f-be14-162954e05474)
 
 1. 入力した MS アカウントが既に他の AAD テナントに紐づけられていなければ アカウントのセットアップ ボタンが表示されるのでクリックします。
